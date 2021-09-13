@@ -1,10 +1,10 @@
-package week1.task1B.TaskA;
+package week1.task1B;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class TaskA {
     public static void main(String[] args) {
         List<String> inputLines = readInputLines(3);
         int code, intV, checkV;
